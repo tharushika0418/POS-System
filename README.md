@@ -1,7 +1,6 @@
 # POS-System-POSync
 IJSE coursework-CMJD106
 
-# POS System - Features
 
 ## System Features
 
